@@ -644,6 +644,7 @@
     <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">dashed</bcf:option>
     <bcf:option datatype="boolean">mergedate</bcf:option>
+    <bcf:option datatype="boolean">ibidpage</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -2375,13 +2376,39 @@
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">Helfrich2024</bcf:citekey>
     <bcf:citekey order="2" intorder="1">Helfrich2024</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Kornmeier2007</bcf:citekey>
     <bcf:citekey order="4" intorder="1">Helfrich2024</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Kornmeier2007</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Kornmesser2020</bcf:citekey>
     <bcf:citekey order="6" intorder="1">Helfrich2024</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">Kornmesser2020</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">Helfrich2024</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Woehe2008</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">RueeggStuerm2020</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Reicher2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Kornmeier2007</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Kornmeier2007</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Kornmeier2007</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Woehe2008</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Kornmesser2020</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Helfrich2024</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Kornmeier2007</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Helfrich2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
