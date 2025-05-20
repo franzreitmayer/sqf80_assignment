@@ -2443,6 +2443,17 @@
     <bcf:citekey order="67" intorder="1">Ulrich1968</bcf:citekey>
     <bcf:citekey order="68" intorder="1">Diesner2015</bcf:citekey>
     <bcf:citekey order="69" intorder="1">Willke2006</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">Malik2009</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">Ulrich2016</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">Ulrich2016</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">Ulrich2016</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">Diesner2015</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">Oelsnitz1994</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">Ulrich1968</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">Ulrich1968</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">Ulrich2016</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">Oelsnitz1994</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">Luhmann1999</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
